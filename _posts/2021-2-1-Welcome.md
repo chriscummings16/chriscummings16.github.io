@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Christopher Yass Cummings is a girl-minimum-wage-baddie slaying the game and serving looks.
