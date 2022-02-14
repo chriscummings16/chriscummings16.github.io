@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Favorite Molecules
-permalink: /favmoles/
+permalink: /favmole/
 ---
 
 ## #1 H2O
