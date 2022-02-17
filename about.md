@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! My name is Chris and I'm a biochemistry student at Cal Poly, SLO. I'm originally from Seattle, where I love to go tidepooling, grab coffee in the city, and hug my dog!
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[ccummi16@calpoly.edu](mailto:ccummi16@calpoly.edu)
