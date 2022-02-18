@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 Hi there! My name is Chris and I'm a biochemistry student at Cal Poly, SLO. I'm originally from Seattle, where I love to go tidepooling, grab coffee in the city, and hug my dog!
-![Alternative Text]( {{ site.chriscummings16.github.io}}/images/picture_filename.png )
+![Alternative Text]( {{ site.baseurl }}/images/IMG_2785.jpg )
+
 
 image https://raw.githubusercontent.com/chriscummings16/chriscummings16.github.io/master/images/IMG_2785.jpeg
 ### More Information
