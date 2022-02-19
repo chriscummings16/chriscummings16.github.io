@@ -4,5 +4,5 @@ title: Resume
 permalink: /resume/
 ---
 
-<object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="ChrisCummingsResume.pdf" width="1000" height="1000" type='application/pdf'/>
 
