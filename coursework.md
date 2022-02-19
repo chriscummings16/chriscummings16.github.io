@@ -9,7 +9,7 @@ General Chemistry (I, II, III), Organic Chemistry (I, II).
 
   Lab Techniques: TLC, Recrystallization, Product extraction and washing, H NMR, 13C NMR, and IR Spectroscopy
   
-  <img src="{{site.baseurl}}/images/IMG_0468.JPG" alt="glowstick" style="width:250;height:250;">
+  <img src="{{site.baseurl}}/images/IMG_0468.JPG" alt="glowstick" style="width:250px;height:250px;">
   
   Here's a picture of a fun experiment I performed recently!
   
