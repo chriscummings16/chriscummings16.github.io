@@ -10,7 +10,8 @@ Hi there! My name is Chris and I'm a biochemistry student at Cal Poly, SLO. I'm 
 
 Here in SLO, I spend my time swimming at the Rec Center, hammocking with friends, and studying biochemistry. I'm interested in exploring the bioactive properties of molecules and their value as therapeatics or medications. I'm currently participating in research relating to natural product biosynthesis of pharmceutically important small molecules, specifically the proteasome inhibitor epoxomicin.
 
-<img src="{{site.baseurl}}/images/Epoxomicin.svg.png" alt="Epoxomicin" />
+## Epoxomicin
+<img src="{{site.baseurl}}/images/Epoxomicin.svg.png" alt="Epoxomicin" width="250"/>
 
 
 
