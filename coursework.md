@@ -4,11 +4,20 @@ title: Coursework
 permalink: /coursework/
 ---
 
-## #1 H2O
-now come on now. she is the moment. nobody does it like her. they wish they could. she IS camp.
+## Chemistry
+General Chemistry (I, II, III), Organic Chemistry (I, II).
 
-### More Information
+  Lab Techniques: TLC, Recrystallization, Product extraction and washing, H NMR, 13C NMR, and IR Spectroscopy,
+## Biology
+Intro to Cell and Molecular Biology
+  Lab Techniques: Gel Electrophoresis, Pipetting, Centrifuge, Spectrophotometry
 
-best look in my opinion is interior exterior rotation of the femur. hip flexers are tight
-### Contact me
+Biochemistry Faculty Research
+  Lab Techniques: Cell innoculation, 
+## Physics
+General Physics (I, II, III)
+
+## Math
+Calculus (I, II, III, IV), Linear Analysis I
+
 
