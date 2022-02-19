@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Favorite Molecules
-permalink: /favmole/
+title: Lab Skills
+permalink: /labskills/
 ---
 
 ## #1 H2O
