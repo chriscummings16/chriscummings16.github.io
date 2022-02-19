@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab Skills
-permalink: /labskills/
+title: Coursework
+permalink: /coursework/
 ---
 
 ## #1 H2O
