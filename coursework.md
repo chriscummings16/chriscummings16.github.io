@@ -4,6 +4,7 @@ title: Coursework
 permalink: /coursework/
 ---
 <img src="{{site.baseurl}}/images/IMG_0468.JPG" alt="glowstick" width="225" style="float: right; margin-top: 10px; margin-right: 10px" />
+
 ## Chemistry
  
 General Chemistry (I, II, III), Organic Chemistry (I, II).
