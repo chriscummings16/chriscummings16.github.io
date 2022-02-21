@@ -9,7 +9,7 @@ permalink: /coursework/
  
 General Chemistry (I, II, III), Organic Chemistry (I, II).
 
-  <span class="bolded">Lab Techniques:</span> TLC, Recrystallization,<br>Product extraction and washing,<br>H NMR, 13C NMR, and IR Spectroscopy
+  <strong>Lab Techniques:</strong> TLC, Recrystallization,<br>Product extraction and washing,<br>H NMR, 13C NMR, and IR Spectroscopy
  
   Here's a picture of a fun experiment I performed recently!
   
