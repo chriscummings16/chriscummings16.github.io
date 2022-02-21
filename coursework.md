@@ -3,12 +3,12 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
-
+<img src="{{site.baseurl}}/images/IMG_0468.JPG" alt="glowstick" width="225" style="float: right; margin-top: 10px; margin-right: 10px" />
 ## Chemistry
- <img src="{{site.baseurl}}/images/IMG_0468.JPG" alt="glowstick" width="225" style="float: right; margin-top: 10px; margin-right: 10px" />
+ 
 General Chemistry (I, II, III), Organic Chemistry (I, II).
 
-  Lab Techniques: TLC, Recrystallization,<br>Product extraction and washing,<br>H NMR, 13C NMR, and IR Spectroscopy
+  <span class="bolded">Lab Techniques:</span> TLC, Recrystallization,<br>Product extraction and washing,<br>H NMR, 13C NMR, and IR Spectroscopy
  
   Here's a picture of a fun experiment I performed recently!
   
