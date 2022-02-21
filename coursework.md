@@ -17,11 +17,8 @@ General Chemistry (I, II, III), Organic Chemistry (I, II).
 ## Biology
 Intro to Cell and Molecular Biology
 
-  Lab Techniques: Gel Electrophoresis, Pipetting, Centrifuge, Spectrophotometry
+  <strong>Lab Techniques:</strong> Gel Electrophoresis, Pipetting, Centrifuge, Spectrophotometry
 
-Biochemistry Faculty Research
-
-  Lab Techniques: Cell innoculation, 
 ## Physics
 General Physics (I, II, III)
 
